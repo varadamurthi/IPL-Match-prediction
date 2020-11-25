@@ -1,5 +1,3 @@
-# Webscraping-using-beautifulsoup
-
 # Webscraping using beautifulsoup
 
 In this repo I am using python libaray called Beautifulsoup to webscrape the data.
